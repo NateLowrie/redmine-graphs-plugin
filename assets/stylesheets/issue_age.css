@@ -1,3 +1,6 @@
+/* load the default SVG stylesheet */
+@import url(svg_default.css);
+
 .line1 { stroke: #666666 !important; } .fill1 { fill: #666666 !important; } .key1 { fill: #666666 !important; }
 .line2 { stroke: #507AAA !important; } .fill2 { fill: #BACCE0 !important; } .key2 { fill: #507AAA !important; }
 
